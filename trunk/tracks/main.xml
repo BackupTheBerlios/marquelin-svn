@@ -1,0 +1,11 @@
+<!DOCTYPE=tracks>
+<!--
+     name can be anything, type can be simple, switching, cross or ending.
+     a child of track can be length, with the attribute unit which give the unit used and the value. Default value is always 0.
+-->
+<tracks>
+ <track name="Straight Track 15 cm" type="simple">
+  <length unit="mm">150</length>
+  <radius unit="rad">0</radius>
+ </track>
+</tracks>
